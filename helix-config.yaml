@@ -10,5 +10,5 @@ definitions:
 strains:
   - name: default
     code: *defaultRepo
-    content: *defaultRepo
+    content: https://github.com/ghandke/mtpcontent.git#master
     static: *defaultRepo
